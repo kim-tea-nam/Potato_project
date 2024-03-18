@@ -17,6 +17,5 @@ public class Userdata {
 
   private String title;
   private String content;
-  // 생성자, getter, setter 생략
 
 }
